@@ -1,0 +1,19 @@
+{
+  "name": "@socialkardia/abstracts",
+  "version": "1.0.0",
+  "description": "A collection of common socialkardia domain logic",
+  "main": "tmp/source/index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-register source/**/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socialkardia/abstracts.js.git"
+  },
+  "author": "Kurtis Rainbolt-Greene (@krainboltgreene) <me@kurtisrainboltgreene.name>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/socialkardia/abstracts.js/issues"
+  },
+  "homepage": "https://github.com/socialkardia/abstracts.js#readme"
+}
